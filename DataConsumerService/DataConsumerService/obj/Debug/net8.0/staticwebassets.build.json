@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8BRhauVaRDiqLCVpoBsz3SIxJ4wbghbAzciok9+2A+0=",
+  "Source": "DataConsumerService",
+  "BasePath": "_content/DataConsumerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

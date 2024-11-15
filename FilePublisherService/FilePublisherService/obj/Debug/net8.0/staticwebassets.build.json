@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RfGVDFHh79Rw1y7+B81vWrnPrLzvh1/AwbnZlR0EBSs=",
+  "Source": "FilePublisherService",
+  "BasePath": "_content/FilePublisherService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

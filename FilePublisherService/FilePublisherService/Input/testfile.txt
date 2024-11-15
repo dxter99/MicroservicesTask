@@ -1,0 +1,5 @@
+Line 1: Data for FileDataQueue
+Line 2: Another entry to be processed
+Line 3: Testing RabbitMQ message publishing
+Line 4: More data for the queue
+Line 5: Final line for testing purposes

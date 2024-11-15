@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\dataconsumerservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\dataconsumerservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\services\\dataconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\services\\dataconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\controllers\\filedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\controllers\\filedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\model\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\model\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|c:\\users\\shubham\\source\\repos\\dataconsumerservice\\dataconsumerservice\\dataconsumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{255187FA-CEF9-4020-9B8C-5AE18F846161}|DataConsumerService\\DataConsumerService.csproj|solutionrelative:dataconsumerservice\\dataconsumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataConsumerService.http",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\DataConsumerService.http",
+              "RelativeDocumentMoniker": "DataConsumerService\\DataConsumerService.http",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\DataConsumerService.http",
+              "RelativeToolTip": "DataConsumerService\\DataConsumerService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-14T09:47:19.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DataConsumerService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\appsettings.Development.json",
+              "RelativeToolTip": "DataConsumerService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T09:23:20.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Services\\DataConsumerService.cs",
+              "RelativeDocumentMoniker": "DataConsumerService\\Services\\DataConsumerService.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Services\\DataConsumerService.cs",
+              "RelativeToolTip": "DataConsumerService\\Services\\DataConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:05:29.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Program.cs",
+              "RelativeDocumentMoniker": "DataConsumerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Program.cs",
+              "RelativeToolTip": "DataConsumerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:56:37.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\appsettings.json",
+              "RelativeDocumentMoniker": "DataConsumerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\appsettings.json",
+              "RelativeToolTip": "DataConsumerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T08:50:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Controllers\\FileDataController.cs",
+              "RelativeDocumentMoniker": "DataConsumerService\\Controllers\\FileDataController.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Controllers\\FileDataController.cs",
+              "RelativeToolTip": "DataConsumerService\\Controllers\\FileDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:09:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataConsumerService.csproj",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\DataConsumerService.csproj",
+              "RelativeDocumentMoniker": "DataConsumerService\\DataConsumerService.csproj",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\DataConsumerService.csproj",
+              "RelativeToolTip": "DataConsumerService\\DataConsumerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T08:07:11.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataConsumerService\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Data\\DataContext.cs",
+              "RelativeToolTip": "DataConsumerService\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:05:30.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Model\\FileData.cs",
+              "RelativeDocumentMoniker": "DataConsumerService\\Model\\FileData.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\DataConsumerService\\DataConsumerService\\Model\\FileData.cs",
+              "RelativeToolTip": "DataConsumerService\\Model\\FileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:04:41.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
